@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/greekmido/project-name/issues"
   },
-  "homepage": "https://github.com/greekmido/project#readme",
+  "homepage": "https://greekmido.github.io/project-name/",
   "devDependencies": {
     "css-loader": "^6.6.0",
     "html-loader": "^3.1.0",
