@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/greekmido/new-project"
+    "url": "git+https://github.com/shellparse/new-project"
   },
   "author": "mohammad alameri",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/greekmido/project-name/issues"
+    "url": "https://github.com/shellparse/project-name/issues"
   },
-  "homepage": "https://greekmido.github.io/project-name/",
+  "homepage": "https://shellparse.github.io/project-name/",
   "devDependencies": {
     "css-loader": "^6.6.0",
     "html-loader": "^3.1.0",
