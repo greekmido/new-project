@@ -8,7 +8,7 @@
 
 
 
-[![live](https://img.shields.io/static/v1?label=projectName&message=Live&color=gray&labelColor=green)](https://greekmido.github.io/project-name/)
+[![live](https://img.shields.io/static/v1?label=projectName&message=Live&color=gray&labelColor=green)](https://shellparse.github.io/project-name/)
 
 
 
